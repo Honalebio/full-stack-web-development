@@ -4,4 +4,4 @@ tasks:
 
 ports:
   - ports: 3000
-    onOpen: open-browser 
+    onOpen: open-browser
